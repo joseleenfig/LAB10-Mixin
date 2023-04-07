@@ -1,0 +1,34 @@
+/*tried to make css and scss work together*/
+
+body{
+  background-color: #70726b;
+  text-align: center;
+}
+p{
+  text-shadow: aquamarine;
+}
+
+.info {
+  background: rgb(26, 24, 24);
+  box-shadow: 0 0 1px rgba(26, 24, 24, 0.25);
+  color: #fff;
+}
+
+.alert {
+  background: rgb(146, 81, 199);
+  box-shadow: 0 0 1px rgba(146, 81, 199, 0.25);
+  align-content: center;
+  color: #7d9734;
+}
+
+.success {
+  background: rgb(178, 221, 178);
+  box-shadow: 0 0 1px rgba(178, 221, 178, 0.25);
+  align-content: center;
+  color: #29be62;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr 2fr;
+}/*# sourceMappingURL=main.css.map */

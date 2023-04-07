@@ -1,0 +1,17 @@
+.info {
+  background: rgb(26, 24, 24);
+  box-shadow: 0 0 1px rgba(26, 24, 24, 0.25);
+  color: #fff;
+}
+
+.alert {
+  background: rgb(146, 81, 199);
+  box-shadow: 0 0 1px rgba(146, 81, 199, 0.25);
+  color: #fff;
+}
+
+.success {
+  background: rgb(178, 221, 178);
+  box-shadow: 0 0 1px rgba(178, 221, 178, 0.25);
+  color: #fff;
+}/*# sourceMappingURL=mixin.css.map */
